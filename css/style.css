@@ -4,6 +4,10 @@ hr{
 	max-width: 100%;
 }
 
+a:active {
+  text-decoration: underline;
+}
+
 .banner {
 	padding-top: 5px
 }
