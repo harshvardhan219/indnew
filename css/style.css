@@ -8,6 +8,7 @@ a:active {
   text-decoration: underline;
 }
 
+
 .banner {
 	padding-top: 5px
 }
@@ -20,5 +21,12 @@ a:active {
 
  .banner{
  	width: 100%
+ }
+
+
+
+ img {
+ 	width: 100%;
+ 	padding:5px;
  }
     }
