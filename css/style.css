@@ -72,5 +72,12 @@ li{
  	padding:5px;
  }
 
+ .d-block{
+ 	height: 275px;
+ }
+
+ .counter{
+ 	align-items: center;
+ }
  
     }
