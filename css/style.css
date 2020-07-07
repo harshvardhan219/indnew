@@ -8,6 +8,45 @@ a:active {
   text-decoration: underline;
 }
 
+b{
+font-family: nos;
+}
+
+.logobar{
+	align-items: justify;
+}
+
+.btn-primary{
+	background-color: #ee4b08;
+	border: #ee4b08;
+}
+
+.btn-primary:hover {
+	background-color: #ff5f1e;
+	border: #ff5f1e;
+}
+
+a{
+	color: #ee4b08;
+}
+
+a:hover{
+	color:#ff5f1e; 
+}
+center{
+	color: #ee4b08; 
+}
+p{
+	color:#ee4b08;
+}
+
+li{
+	color: #ee4b08;
+}
+@font-face{
+	src: url(../asset/Milford_Condensed/MILFCD_B.TTF);
+	font-family: nos;
+}
 
 .banner {
 	padding-top: 5px
@@ -23,10 +62,15 @@ a:active {
  	width: 100%
  }
 
-
+ .counter{
+ 	height: 80px;
+ 	width: 150px;
+ }
 
  img {
  	width: 100%;
  	padding:5px;
  }
+
+ 
     }
